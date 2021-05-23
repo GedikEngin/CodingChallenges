@@ -32,3 +32,14 @@ if __name__ == '__main__':
 # 3 -> 2 likes // x and y like this
 # 4 -> 3 likes// x, y and z like this
 # 5 -> 4+ likes // x, y and * like this
+
+# alternative solutions:
+'''
+def likes(names):
+    l = len(names)
+    if l == 0: return 'no one likes this'
+    if l == 1: return '{} likes this'.format(names[0])
+    if l == 2: return '{} and {} like this'.format(names[0], names[1])
+    if l == 3: return '{}, {} and {} like this'.format(names[0], names[1], names[2])
+    return '{}, {} and {} others like this'.format(names[0], names[1], len(names)-2)
+'''
