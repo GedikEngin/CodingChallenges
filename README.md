@@ -4,3 +4,4 @@
 * Sometimes they are a repeat of previous tasks, in which case another file will be created with a version name included
 * Example code may be present at the end of it to show what code I derived my answer from similar to sources
 * My solutions may not neccesarily be the most efficient solution someone could achieve, but it is functional in most cases
+* Link to CodeWars: https://www.codewars.com/users/GedikEngin/stats
