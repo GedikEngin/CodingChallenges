@@ -11,7 +11,6 @@ if __name__ == '__main__':
     find_it([1, 1, 1, 1, 1, 1, 10, 1, 1, 1, 1])
     find_it([5, 4, 3, 2, 1, 5, 4, 3, 2, 10, 10])
 
-
 # story:
 # create a loop for the list received
 # create a counter to see how many times the number appears
