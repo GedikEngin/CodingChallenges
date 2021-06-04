@@ -5,7 +5,6 @@ def filter_list(list):
         filtered_list.append(element)
   return filtered_list
 
-  return print(filtered_list)
 
 
 if __name__ == '__main__':
