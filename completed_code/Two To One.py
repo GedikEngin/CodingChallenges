@@ -6,8 +6,7 @@ def longest(a1, a2):
     for char in a2:
         if char not in string:
             string += char
-    ''.join(sorted(string))
-    return print(string)
+    return ''.join(sorted(string))
 
 if __name__ == '__main__':
     longest("aretheyhere", "yestheyarehere")
